@@ -17,57 +17,56 @@ This is a Gen Z-flavored chatbot powered by OpenAI's GPT models. It allows users
 
 👉 [https://gen-z-chatbot.streamlit.app/](https://gen-z-chatbot.streamlit.app/)
 
-👯‍♀️ Fork & Collaborate
+---
+
+## 👯‍♀️ Fork & Collaborate
 Feel free to fork this project and customize it for your own experiments or projects!
 
-If you're interested in contributing, improving the sass engine, or integrating new models — I'm open to collaborations and feedback.
+If you're interested in contributing, improving the sass engine, or integrating new models, i'm open to collaborations and feedback.
 
 📩 Contact me directly via GitHub Issues or drop me a message if you'd like to team up!
 
-🔐 Environment Variables
+---
+
+## 🔐 Environment Variables
+
 This app uses environment variables to keep your API keys safe.
 
-Make sure to define them either via a .env file in the root directory:
+Make sure to define them either via a .env file in the root directory: OPENAI_API_KEY= "your-secret-key-here"
 
-env
-Copy
-Edit
-OPENAI_API_KEY=your-secret-key-here
-Or via TOML format in Streamlit's Advanced Settings → Secrets:
+Or via Streamlit's Advanced Settings → Secrets: OPENAI_API_KEY = "your-secret-key-here"
 
-toml
-Copy
-Edit
-OPENAI_API_KEY = "your-secret-key-here"
-📦 Requirements
-txt
-Copy
-Edit
-gradio
-openai
-python-dotenv
-tiktoken
-💡 Future Ideas
+---
+
+## 📦 Requirements
+
+- gradio
+- openai
+- python-dotenv
+- tiktoken
+
+---
+
+## 💡 Future Ideas
+
 🧩 Plugin support
 
-🌐 Multilingual version
+🌐 Multilingual version (Currently, just a sassy english speaking Gen Z)
 
 💬 Memory persistence beyond session
 
 🧑‍🎤 More personalities to choose from
 
-✨ License
-MIT License — Use it freely, respectfully, and give credit where it's due.
-
-Made with ❤️ by [Your Name or GitHub Handle]
-
-yaml
-Copy
-Edit
+🧑‍🎤 Deployable on Huggingface
 
 ---
 
-Let me know if you'd like this updated for `Streamlit` instead of `Gradio` as the UI or want it auto
+## ✨ License
+MIT License — Use it freely, respectfully, and give credit where it's due.
+
+Made with ❤️ by [Hilary Martins-Udeze] just for fun
+
+---
 
 ### 💻 Local (localhost)
 ```bash
