@@ -1,4 +1,4 @@
-# 💬 Gen Z ChatBot (Streamlit + OpenAI)
+# 💬 Gen Z ChatBot (Streamlit + OpenAI && Gradio + OpenAI)
 
 This is a Gen Z-flavored chatbot powered by OpenAI's GPT models. It allows users to interact either for **free with a 3-message limit** or **unlimited if they bring their own API key**.
 
@@ -16,6 +16,8 @@ This is a Gen Z-flavored chatbot powered by OpenAI's GPT models. It allows users
 ## 🚀 Try It Now
 
 👉 [https://gen-z-chatbot.streamlit.app/](https://gen-z-chatbot.streamlit.app/)
+
+👉 [7 days access with Gradio] (https://91775d1746584c152b.gradio.live/)
 
 ---
 
@@ -73,7 +75,8 @@ Made with ❤️ by [Hilary Martins-Udeze] just for fun
 git clone https://github.com/yourusername/Gen-Z_ChatBot.git
 cd Gen-Z_ChatBot
 pip install -r requirements.txt
-python app.py
+python app.py (for Gradio Vaersion)
+python Web_Chatbot.py (for streamlit version)
 
 
 
