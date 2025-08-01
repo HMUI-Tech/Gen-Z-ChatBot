@@ -17,7 +17,7 @@ This is a Gen Z-flavored chatbot powered by OpenAI's GPT models. It allows users
 
 👉 [https://gen-z-chatbot.streamlit.app/](https://gen-z-chatbot.streamlit.app/)
 
-👉 [7 days access with Gradio] (https://91775d1746584c152b.gradio.live/)
+👉 [7 days access with Gradio] (https://1840936aca7e792779.gradio.live)
 
 ---
 
